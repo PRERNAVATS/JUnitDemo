@@ -8,7 +8,7 @@ public class CalcSeries {
 
 	
 	public double calcSeries(int a, int b, int c) {
-		double res = (a + b + c) / 2.0;
+		double res = (a + b + c) / 3.0;
 		return res;
 	}
 	
